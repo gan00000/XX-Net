@@ -1,4 +1,4 @@
 {
-	"mmurl":"https://9f021664.xyz/",
+	"mmureel":"https://9f021664.xyz/",
 	"mmtype":""
 }
